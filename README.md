@@ -2,6 +2,7 @@
 
 I am Stephan, I grew up in a tiny town in Limpopo, South Africa. I spent the first 19 years of my life here. I finished high school in 2019. Ever since I was little I was heavily invested in computers and when I discovered coding, it was a game changer. I had developed a dream to achieve a degree in Information Technology to learn more about my passion, however, the finances were not always available. Thus in 2020 and 2021, I went to work in the United States of America as a farm equipment operator. I had the absolute privilege to visit various great American states: Oklahoma, Nebraska, Iowa, Minnesota, Wisconsin, Texas, Kansas, South Dakota and North Dakota. I also had the opportunity to operate various machinery like Tractors, Combine Harvesters and Semi-Trucks. The greatest privilege of all was to be able to afford my studies after these two years. 🇿🇦 :us:
 
+My CV can be found: [here](https://drive.google.com/file/d/1hwNiMKEmLtNW6IC5E06W6Xuj-SCzGPLl/view?usp=drive_link)
 The following picture was taken in Colby, Kansas: :tractor:
 
 ![20200928_184124](https://github.com/Schmidt1230/Schmidt1230/assets/143713572/15dfcc9e-5096-46d3-be19-c06d3c21fadd)
