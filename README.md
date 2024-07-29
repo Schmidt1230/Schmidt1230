@@ -11,7 +11,7 @@ The following picture was taken in Colby, Kansas: :tractor:
 
 ## Porfolio
 
-Please take a look at my Portfolio website hosted on Netlify it can be found [here](https://stephanschmidt-portfolio.netlify.app/).
+Please take a look at my Portfolio website hosted on Netlify it can be found [here](https://stephan-schmidt.netlify.app/).
 ## Education
 
 I am currently studying for my Bachelor's Degree in Information Technology at the North-West University (NWU) of Potchefstroom, located in North-West, South Africa. I plan to finish by this year's end (2024).
