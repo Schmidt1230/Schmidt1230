@@ -16,7 +16,7 @@ Please take a look at my Portfolio website hosted on Netlify it can be found [he
 ## Skills
 
 
-| Python   |Java| C# |  C++ | HTML|CSS | 
+| *Python*   | *Java*| *C#* |  *C++* | *HTML*| *CSS* | 
 |----------|---------------------------------------------------------------|--------------------------------------------------|
 |![Python](https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Python-Light.svg)|
 |![Java](https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Java-Light.svg)|
