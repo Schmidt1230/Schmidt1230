@@ -4,14 +4,13 @@ I am Stephan, I grew up in a tiny town in Limpopo, South Africa. I spent the fir
 
 My CV can be found: [here](https://drive.google.com/file/d/1hwNiMKEmLtNW6IC5E06W6Xuj-SCzGPLl/view?usp=drive_link).
 
-
-The following picture was taken in Colby, Kansas: :tractor:
-
-![20200928_184124](https://github.com/Schmidt1230/Schmidt1230/assets/143713572/15dfcc9e-5096-46d3-be19-c06d3c21fadd)
-
 ## Porfolio
 
 Please take a look at my Portfolio website hosted on Netlify it can be found [here](https://stephan-schmidt.netlify.app/).
+
+
+
+
 
 ## Skills
 ### Coding Knowledge:
@@ -46,6 +45,10 @@ I have one-month work experience in Semantic Web Development for the Nova Instit
 
 ### C# Student assistant June 2023 - October 2023 AND February 2024 - June 2024
 During my time at North-West University (NWU), I obtained remarkable results in C# in the .NET environment, especially using SQL relational databases. I obtained an employment opportunity from NWU to serve as a student assistant. The work comprised assisting the lecturers and also helping students with their understanding of C# and SQL databases. 
+
+The following picture was taken in Colby, Kansas: :tractor:
+
+![20200928_184124](https://github.com/Schmidt1230/Schmidt1230/assets/143713572/15dfcc9e-5096-46d3-be19-c06d3c21fadd)
 
 ## Contact Me
 
