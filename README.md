@@ -4,9 +4,10 @@ I am Stephan, I grew up in a tiny town in Limpopo, South Africa. I spent the fir
 
 
 
-## Porfolio + CV:
-[CV](https://drive.google.com/file/d/1hwNiMKEmLtNW6IC5E06W6Xuj-SCzGPLl/view?usp=drive_link)
-[Portfolio](https://stephan-schmidt.netlify.app/).
+## Portfolio + CV:
+My CV can be found [here](https://drive.google.com/file/d/1hwNiMKEmLtNW6IC5E06W6Xuj-SCzGPLl/view?usp=drive_link)
+
+Also please visit my [Portfolio Website](https://stephan-schmidt.netlify.app/).
 
 
 
