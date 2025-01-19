@@ -41,6 +41,9 @@ I have achieved the Golden Key for my academic achievements at NWU. Golden Key I
 ![GK-Badge-_Blue-Flat](https://github.com/Schmidt1230/Schmidt1230/assets/143713572/2ed71808-4b75-4b8c-b247-df89962a1dba)
 
 ## Work Experience
+### Signify Software [Software Developer] Nov 2024 - Present
+The work is largely focused on .NET development in ASP.NET WEB Forms, ASP.NET MVC Core, ASP.NET Web API. Also working with relational databases for record storage. 
+
 ### Semantic Web Development June 2024 - July 2024
 I have one-month work experience in Semantic Web Development for the Nova Institute, the work comprised creating a Fluree Ledger (Graph Database Platform using JSON-LD) from the Docker Fluree Server Image and using Postman to send API calls to perform database operations on the Ledger. Also, I had to develop small Python tools which aided in PDF handling and converting.OWL/RDF Turtle files to JSON-LD. 
 
