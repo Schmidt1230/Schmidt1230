@@ -2,7 +2,7 @@
 
 Hello there 👋
 
-I am Stephan, a dedicated and passionate Information Technology student from a small town in Limpopo, South Africa. My journey began with an early interest in computers, which evolved into a love for coding. This passion drove me to pursue a degree in Information Technology.
+I am Stephan, a dedicated and passionate software developer from a small town in Limpopo, South Africa. My journey began with an early interest in computers, which evolved into a love for coding. This passion drove me to pursue a degree in Information Technology.
 
 ## Education
 
