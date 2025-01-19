@@ -7,7 +7,7 @@ I am Stephan, a dedicated and passionate software developer from a small town in
 ## Education
 
 **North-West University (NWU), Potchefstroom**  
-*Bachelor's Degree in Information Technology (Expected completion: 2024)*
+*Bachelor's Degree in Information Technology with distinction
 
 - **Golden Key International Honour Society**: Recognized for academic excellence, invited to join the top 15% of my class.
 
@@ -19,6 +19,7 @@ I am Stephan, a dedicated and passionate software developer from a small town in
 *Nov 2024 - Present*  
 - .NET development in ASP.NET Web Forms, ASP.NET MVC Core, ASP.NET Web API.
 - Working with relational databases for record storage.
+- Devops
 
 **Nova Institute | Semantic Web Development**  
 *June 2024 - July 2024*  
