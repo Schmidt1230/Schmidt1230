@@ -11,8 +11,6 @@ I am Stephan, a dedicated and passionate software developer from a small town in
 
 - **Golden Key International Honour Society**: Recognized for academic excellence, invited to join the top 15% of my class.
 
-![Golden Key Badge](https://github.com/Schmidt1230/Schmidt1230/assets/143713572/2ed71808-4b75-4b8c-b247-df89962a1dba)
-
 ## Work Experience
 
 **Signify Software | Software Developer**  
@@ -20,6 +18,8 @@ I am Stephan, a dedicated and passionate software developer from a small town in
 - .NET development in ASP.NET Web Forms, ASP.NET MVC Core, ASP.NET Web API.
 - Working with relational databases for record storage.
 - Devops
+- C#, React, VUE, SQL Server, Microservice Architecture, JavaScript, CSS, HTML, PowerShell
+- Git operations for version controll.
 
 **Nova Institute | Semantic Web Development**  
 *June 2024 - July 2024*  
