@@ -33,7 +33,7 @@ I am Stephan, a dedicated and passionate software developer from a small town in
 - Assisted lecturers and students in understanding C# and SQL databases.
 - Supported students with coursework and projects in the .NET environment.
 
-##Olsen Custom Farms (OCF) | Equipment Operator
+**Olsen Custom Farms (OCF) | Equipment Operator**
 *2020 March - 2021 December* Minnesota
 - H2A Agriculture work in the United States.
 - Harvesting crops for farmers across America.
