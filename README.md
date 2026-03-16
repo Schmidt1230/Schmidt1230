@@ -16,9 +16,10 @@ I am Stephan, a dedicated and passionate software developer from a small town in
 **Signify Software | Software Developer**  
 *Nov 2024 - Present*  
 - .NET development in ASP.NET Web Forms, ASP.NET MVC Core, ASP.NET Web API.
-- Working with relational databases for record storage.
+- Working with relational databases for record storage in SQL Server.
 - Devops
 - C#, React, VUE, SQL Server, Microservice Architecture, JavaScript, CSS, HTML, PowerShell
+- Mobile Development in Kotlin
 - Git operations for version controll.
 
 **Nova Institute | Semantic Web Development**  
@@ -31,6 +32,13 @@ I am Stephan, a dedicated and passionate software developer from a small town in
 *June 2023 - October 2023 AND February 2024 - June 2024*  
 - Assisted lecturers and students in understanding C# and SQL databases.
 - Supported students with coursework and projects in the .NET environment.
+
+##Olsen Custom Farms (OCF) | Equipment Operator
+*2020 March - 2021 December* Minnesota
+- H2A Agriculture work in the United States.
+- Harvesting crops for farmers across America.
+- Driving Semi-Trucks
+- Leading small convoys throughout the states.
 
 ## Skills
 
